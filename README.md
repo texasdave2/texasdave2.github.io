@@ -1,13 +1,13 @@
 ## Project 1
-link:  [Predicting diabetes among the Pima Indians](https://github.com/texasdave2/texasdave2.github.io/blob/main/notebooks/predicting_diabetes.ipynb)
+link:  [Predicting diabetes among the Pima Indians](https://www.kaggle.com/texasdave/predicting-diabetes-among-the-pima-indian-tribe)
 
 
 ## Project 2
-link:  [Spam or Ham? Using natural language processing](https://github.com/texasdave2/texasdave2.github.io/blob/main/notebooks/spam_or_ham_using_natural_language_processing.ipynb)
+link:  [Spam or Ham? Using natural language processing](https://www.kaggle.com/texasdave/spam-or-ham-using-natural-language-processing)
 
 
 ## Project 3
-link:  [Movie rating prediction - Using the MovieLens dataset](https://github.com/texasdave2/texasdave2.github.io/blob/main/notebooks/movie_rating_predictor.ipynb)
+link:  [Movie rating prediction - Using the MovieLens dataset](https://www.kaggle.com/texasdave/movie-rating-predictor-movielens-dataset)
 
 
 
