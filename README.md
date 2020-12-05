@@ -1,5 +1,5 @@
 ## Project 1
-link:  [Diabetes prediction](https://texasdave2.github.io/notebooks/predicting_diabetes.ipynb)
+link:  [Diabetes prediction](https://github.com/texasdave2/texasdave2.github.io/blob/main/notebooks/predicting_diabetes.ipynb)
 
 ## Welcome to GitHub Pages
 
